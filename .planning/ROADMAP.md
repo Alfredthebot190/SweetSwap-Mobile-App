@@ -4,6 +4,8 @@
 
 9-phase implementation plan for SweetSwap v1 MVP. Each phase builds incrementally toward a fully functional swipe-based healthy recipe discovery app.
 
+**📝 GSD Plans Created:** Phases 2-9 now have comprehensive GSD-based implementation plans. See `Phase{N}-PLAN.md` files for detailed, atomic tasks.
+
 ---
 
 ## Phase 1: Foundation
